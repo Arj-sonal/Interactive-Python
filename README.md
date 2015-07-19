@@ -1,2 +1,2 @@
 # Interactive-Python
-This is a repo for pythin program
+This is a repo for python program
